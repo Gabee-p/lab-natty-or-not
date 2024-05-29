@@ -4,7 +4,14 @@
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+**Google Gemini:**
+
+**Suno:** 
+
+**ElevenLabs:**
+
+**Podcastle:**
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
