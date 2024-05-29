@@ -20,7 +20,7 @@ Para criação do nome do programa e roteirização do que seria narrado pelo lo
 ## 🚀 Resultados
 Como resultado temos um trecho do programa Sintonia FM, na qual temos a abertura do programa seguida da primeira atração musical.
 
-[ESCUTAR O PROGRAMA]()
+[ESCUTAR O PROGRAMA](https://github.com/Gabee-p/lab-natty-or-not/assets/160762568/07e2e5d2-44dc-411c-83e3-73f51601dbda)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+O projeto possibilitou conhecer melhor diferentes formas de inteligência artifical, e explorar maneiras de integrá-las. Foi possível criar um programa de rádio desde seu roteiro até seu produto final, inclusive criando a mídia que seria apresentada, com isso posso dizer que a experiência de explorar o conceito "natural ou fake natty" foi muito interessante. 
