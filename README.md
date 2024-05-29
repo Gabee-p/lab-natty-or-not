@@ -20,7 +20,7 @@ Para criação do nome do programa e roteirização do que seria narrado pelo lo
 ## 🚀 Resultados
 Como resultado temos um trecho do programa Sintonia FM, na qual temos a abertura do programa seguida da primeira atração musical.
 
-
+[ESCUTAR O PROGRAMA]()
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
